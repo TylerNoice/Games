@@ -1,1 +1,1 @@
-<embed id="flashid" width="100%" height="100%" base="https://sites.google.com/site/siteforstorage13/" wmode="opaque" type="application/x-shockwave-flash" src="https://sites.google.com/site/siteforstorage13/Ace-Gangster-Taxi.swf?attredirects=0">
+<embed id="flashid" width="100%" height="100%" base="https://sites.google.com/site/siteforstorage13/" wmode="opaque" type="application/x-shockwave-flash" src="https://tylernoice.github.io/Games/games/Ace-Gangster-Taxi.swf">
