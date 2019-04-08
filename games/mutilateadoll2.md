@@ -1,1 +1,0 @@
-<embed src="https://ed002a48-a-62cb3a1a-s-sites.googlegroups.com/site/filestome621/ace-gangster-2-728-546.swf?" flashvars="" base="" quality="high" allowscriptaccess="always" allowfullscreen="true" bgcolor="" wmode="window" width="100%" height="100%" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
