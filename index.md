@@ -4,4 +4,4 @@ New games are being added daily
 
 ### Games
 
-[Pool Rider](https://tylernoice.github.io/Project/games/polerider.html)
+[Pool Rider](https://tylernoice.github.io/Games/games/polerider)
